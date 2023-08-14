@@ -9,10 +9,11 @@ from models.place import Place
 from models.review import Review
 
 """
-    
-    this module serializes instances to a JSON file and deserializes 
+    this module serializes instances to a JSON file and deserializes
     JSON file to instances
 """
+
+
 class FileStorage:
     """
     Private class attributes:
