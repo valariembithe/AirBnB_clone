@@ -1,6 +1,6 @@
 # AirBnB Clone - The Console
 #### Welcome to the AirBnB Clone Project. 
-This project dives deep into deploying into my server a simple copy of the AirBnB website. The first part of this project is to create a command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging). 
+This project dives deep into deploying a simple copy of the AirBnB website. The first part of this project is to create a command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging). 
 
 # Description
 - Create a data model that should manage (create, update, destroy, etc) objects via a console / command interpreter
@@ -9,7 +9,7 @@ store and persist objects to a file (JSON file)
 - This abstraction will also allow you to change the type of storage easily without updating all of your codebase.
 - The console will be a tool to validate this storage engine
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230814T084131Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aa69b147bdc77abd22ec17cb8ae43b93e9c761baf25f20b1bac12786c89351e7)
+![An image representation of the first part.](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230814T084131Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aa69b147bdc77abd22ec17cb8ae43b93e9c761baf25f20b1bac12786c89351e7)
 
 Each task is linked and will help you to:
 
