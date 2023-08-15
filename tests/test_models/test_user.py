@@ -1,10 +1,12 @@
+#!/user/bin/env python3
+"""Test suite for the User model."""
+
 import unittest
 from models.user import User
 
+
 class TestUserModel(unittest.TestCase):
     """
-    Test suite for the User model.
-
     Each test method focuses on testing a specific attribute of the User model.
     """
 
@@ -35,6 +37,7 @@ class TestUserModel(unittest.TestCase):
         """
         user = User(last_name="Doe")
         self.assertEqual(user.last_name, "Doe")
+
 
 if __name__ == '__main__':
     unittest.main()
