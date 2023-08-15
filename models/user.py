@@ -15,8 +15,9 @@ class User(BaseModel):
 
     Inherits from BaseModel, which provides common attributes and methods.
     """
-
-    email = None
-    password = None
-    first_name = None
-    last_name = None
+    def __init__(self):
+        super().__init__()
+        email = ""
+        password = ""
+        first_name = ""
+        last_name = ""
